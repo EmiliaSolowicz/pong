@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/pong/Scenes/MainMenu.unity
+    guid: 0768c5100aeb23c4db00ce0c751bb337
+  - enabled: 1
+    path: Assets/pong/Scenes/pong.unity
+    guid: bb3c739144c15b2409f2f00f0d2eeeaa
+  - enabled: 1
+    path: Assets/pong/Scenes/GameOver.unity
+    guid: 93784c843dfbc3a45ac3ae59066890f5
   m_configObjects: {}
